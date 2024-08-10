@@ -1,0 +1,7 @@
+# mi_repositorio/Cargo.toml
+[workspace]
+
+members = [
+    "hey_rustc",
+    "picth",
+]
