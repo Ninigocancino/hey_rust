@@ -3,5 +3,4 @@
 
 members = [
     "hey_rustc",
-    "picth",
 ]
